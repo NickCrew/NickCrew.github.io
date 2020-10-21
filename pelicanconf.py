@@ -4,9 +4,9 @@
 AUTHOR = 'Nick Ferguson'
 AUTHOR_URL = 'author/nick-ferguson.html'
 
-SITENAME = 'DevBear.net'
-SITEURL = 'http://blog.devbear.net'
-SITESUBTITLE = 'Synergizing software development with classic bear principles'
+SITENAME = 'nferguson.net'
+SITEURL = 'http://nferguson..net'
+SITESUBTITLE = "Nick's Blog"
 
 TIMEZONE = 'America/New_York'
 DEFAULT_LANG = 'en'
@@ -89,7 +89,7 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 DISPLAY_CATEGORIES_ON_MENU = False
-#DISPLAY_PAGES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False
 #USE_FOLDER_AS_CATEGORY = True
 
 MENUITEMS = [
